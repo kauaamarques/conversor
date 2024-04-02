@@ -1,0 +1,46 @@
+
+h1 {
+    color: #333;
+    
+    text-align: center;
+}
+
+div {
+    margin-bottom: 10px;
+    justify-content: center;
+    text-align: center;
+}
+
+input[type="number"], button {
+    padding: 8px;
+    font-size: 16px;
+    justify-content: center;
+    text-align: center;
+}
+
+button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    cursor: pointer;
+    justify-content: center;
+    text-align: center;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+#resultado {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.container {
+    max-width: 400px;
+    margin: 100px auto;
+    background-color: #f0f0f0;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
